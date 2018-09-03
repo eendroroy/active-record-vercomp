@@ -44,12 +44,17 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/eendroroy/activerecord-vercomp. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at [active-record-vercomp](https://github.com/eendroroy/active-record-vercomp) repository.
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## Author
+
+* **indrajit** - *Owner* - [eendroroy](https://github.com/eendroroy)
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The project is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 ## Code of Conduct
 
-Everyone interacting in the Activerecord::Vercomp project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/eendroroy/activerecord-vercomp/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the ActiveRecordVercomp project’s codebase, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/eendroroy/active-record-vercomp/blob/master/CODE_OF_CONDUCT.md).
