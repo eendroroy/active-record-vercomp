@@ -28,7 +28,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install activerecord-vercomp
+    $ gem install active-record-vercomp
 
 ## Usage
 
