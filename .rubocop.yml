@@ -19,23 +19,13 @@ Metrics/ModuleLength:
 Metrics/MethodLength:
   Max: 30
 
-Metrics/AbcSize:
-  Enabled: false
-  Max: 20
-
-Metrics/PerceivedComplexity:
-  Max: 15
-
-Style/CyclomaticComplexity:
-  Max: 15
-
 Style/BlockComments:
   Enabled: false
 
 Style/Documentation:
   Enabled: false
 
-Style/ExtraSpacing:
+Layout/ExtraSpacing:
   AllowForAlignment: true
 
 Style/FrozenStringLiteralComment:
