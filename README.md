@@ -1,8 +1,18 @@
-# Activerecord::Vercomp
+# ActiveRecordVercomp
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/activerecord/vercomp`. To experiment with that code, run `bin/console` for an interactive prompt.
+[![GitHub tag](https://img.shields.io/github/tag/eendroroy/active-record-vercomp.svg)](https://github.com/eendroroy/active-record-vercomp)
+[![Gem Version](https://badge.fury.io/rb/active-record-vercomp.svg)](https://rubygems.org/gems/active-record-vercomp)
+[![Downloads](https://img.shields.io/gem/dt/active-record-vercomp.svg)](https://rubygems.org/gems/active-record-vercomp)
 
-TODO: Delete this and the text above, and describe your gem
+[![Contributors](https://img.shields.io/github/contributors/eendroroy/active-record-vercomp.svg)](https://github.com/eendroroy/active-record-vercomp/graphs/contributors)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/active-record-vercomp/master.svg)](https://github.com/eendroroy/active-record-vercomp)
+[![license](https://img.shields.io/github/license/eendroroy/active-record-vercomp.svg)](https://github.com/eendroroy/active-record-vercomp/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/eendroroy/active-record-vercomp.svg)](https://github.com/eendroroy/active-record-vercomp/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/active-record-vercomp.svg)](https://github.com/eendroroy/active-record-vercomp/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/active-record-vercomp.svg)](https://github.com/eendroroy/active-record-vercomp/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/active-record-vercomp.svg)](https://github.com/eendroroy/active-record-vercomp/pulls?q=is%3Apr+is%3Aclosed)
+
+Helper gem to for postgresql [`vercomp`](https://github.com/eendroroy/vercomp)
 
 ## Installation
 
@@ -22,7 +32,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Generate 'VERCOMP' initializer:
+
+    $ bin/rails generate vercomp
 
 ## Development
 
