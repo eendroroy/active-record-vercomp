@@ -1,8 +1,8 @@
 Description:
-    Explain the generator
+    Register PostgreSQL 'VERSION' column type in rails
 
 Example:
-    rails generate vercomp Thing
+    rails generate vercomp
 
     This will create:
-        what/will/it/create
+        config/initializers/connection_adapter_vercomp.rb
