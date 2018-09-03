@@ -1,0 +1,48 @@
+AllCops:
+  Exclude:
+    - 'bin/**/*'
+    - 'spec/**/*'
+    - 'vendor/**/*'
+
+Lint/SafeNavigationChain:
+  Enabled: true
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/ClassLength:
+  Max: 150
+
+Metrics/ModuleLength:
+  Max: 150
+
+Metrics/MethodLength:
+  Max: 30
+
+Metrics/AbcSize:
+  Enabled: false
+  Max: 20
+
+Metrics/PerceivedComplexity:
+  Max: 15
+
+Style/CyclomaticComplexity:
+  Max: 15
+
+Style/BlockComments:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/ExtraSpacing:
+  AllowForAlignment: true
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
+
+Style/Next:
+  Enabled: false
