@@ -1,7 +1,3 @@
-require "activerecord/vercomp/version"
+# frozen_string_literal: true
 
-module Activerecord
-  module Vercomp
-    # Your code goes here...
-  end
-end
+require 'activerecord/vercomp/version'
