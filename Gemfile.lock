@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    active-record-vercomp (1.0.0)
+    active-record-vercomp (1.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -35,4 +35,4 @@ DEPENDENCIES
   rubocop
 
 BUNDLED WITH
-   1.16.3
+   1.16.4
